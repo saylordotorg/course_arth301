@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH301 - Art Historical Methodologies"
+course: ARTH301
+course_fulltitle: "Art Historical Methodologies"
+course_description: "Introductory course that outlines the major methodologies used by art historians and traces the major methodological developments within the discipline from the late nineteenth century through the late twentieth century."
+---
 **Unit 4: Icon, Iconography, and Iconology** <span id="4"></span> 
 *This unit examines the art historical methodology of iconography and
 its foremost practitioner and theorist, Erwin Panofsky (1892-1968). 

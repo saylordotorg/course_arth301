@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH301 - Art Historical Methodologies"
+course: ARTH301
+course_fulltitle: "Art Historical Methodologies"
+course_description: "Introductory course that outlines the major methodologies used by art historians and traces the major methodological developments within the discipline from the late nineteenth century through the late twentieth century."
+---
 **Unit 1: What is Art? What is and Artist? What is Art History?** <span
 id="1"></span> 
 *This unit first introduces the student to the discipline of art history

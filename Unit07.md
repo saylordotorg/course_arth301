@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH301 - Art Historical Methodologies"
+course: ARTH301
+course_fulltitle: "Art Historical Methodologies"
+course_description: "Introductory course that outlines the major methodologies used by art historians and traces the major methodological developments within the discipline from the late nineteenth century through the late twentieth century."
+---
 **Unit 7: Semiotics** <span id="7"></span> 
 *Semiotic theory originally developed in the field of linguistics and
 has been used by art historians to question the very system whereby

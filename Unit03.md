@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH301 - Art Historical Methodologies"
+course: ARTH301
+course_fulltitle: "Art Historical Methodologies"
+course_description: "Introductory course that outlines the major methodologies used by art historians and traces the major methodological developments within the discipline from the late nineteenth century through the late twentieth century."
+---
 **Unit 3: Connoisseurship and Technical Analysis** <span id="3"></span> 
 *This unit looks at the development of connoisseurship and technical
 analysis. Connoisseurship focuses on establishing the authenticity and
