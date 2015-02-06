@@ -6,7 +6,7 @@ next: ../Unit02
 previous: ../Intro
 bgimage: arth301.jpg
 ---
-**Unit 1: What is Art? What is and Artist? What is Art History?** <span
+**Unit 1: What is Art? What is an Artist? What is Art History?** <span
 id="1"></span> 
 *This unit first introduces the student to the discipline of art history
 and discusses how the conception of the discipline’s central
