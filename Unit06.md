@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH301 - Art Historical Methodologies"
-course: ARTH301
-course_fulltitle: "Art Historical Methodologies"
-course_description: "Introductory course that outlines the major methodologies used by art historians and traces the major methodological developments within the discipline from the late nineteenth century through the late twentieth century."
+title: "ARTH301: Art Historical Methodologies"
+course_description: "An introductory course that outlines the major methodologies used by art historians and traces the major methodological developments within the discipline from the late nineteenth century through the late twentieth century."
+next: ../Unit07
+previous: ../Unit05
+bgimage: arth301.jpg
 ---
 **Unit 6: Historical, Cultural, and Social Analysis** <span
 id="6"></span> 

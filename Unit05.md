@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH301 - Art Historical Methodologies"
-course: ARTH301
-course_fulltitle: "Art Historical Methodologies"
-course_description: "Introductory course that outlines the major methodologies used by art historians and traces the major methodological developments within the discipline from the late nineteenth century through the late twentieth century."
+title: "ARTH301: Art Historical Methodologies"
+course_description: "An introductory course that outlines the major methodologies used by art historians and traces the major methodological developments within the discipline from the late nineteenth century through the late twentieth century."
+next: ../Unit06
+previous: ../Unit04
+bgimage: arth301.jpg
 ---
 **Unit 5: Psychoanalysis** <span id="5"></span> 
 *This unit explores the use of psychoanalytic concepts in art historical
