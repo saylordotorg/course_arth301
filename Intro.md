@@ -101,3 +101,15 @@ works discussed in the readings that you have not seen or do not know
 much about. You should also note that many of these readings are
 theoretical and therefore very dense, so you may have to read over them,
 or at least sections of them, several times.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/arth301/Unit01/)
+- [Unit 2](https://legacy.saylor.org/arth301/Unit02/)
+- [Unit 3](https://legacy.saylor.org/arth301/Unit03/)
+- [Unit 4](https://legacy.saylor.org/arth301/Unit04/)
+- [Unit 5](https://legacy.saylor.org/arth301/Unit05/)
+- [Unit 6](https://legacy.saylor.org/arth301/Unit06/)
+- [Unit 7](https://legacy.saylor.org/arth301/Unit07/)
+- [Unit 8](https://legacy.saylor.org/arth301/Unit08/)
+- [Unit 9](https://legacy.saylor.org/arth301/Unit09/)
