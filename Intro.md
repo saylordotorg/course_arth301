@@ -121,3 +121,4 @@ or at least sections of them, several times.
 - [Unit 7](https://legacy.saylor.org/arth301/Unit07/)
 - [Unit 8](https://legacy.saylor.org/arth301/Unit08/)
 - [Unit 9](https://legacy.saylor.org/arth301/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH301/ARTH301-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH301/ARTH301-FinalExam-Answers.html)
