@@ -36,9 +36,9 @@ Upon successful completion of this unit, the student will be able to:
 **3.1 Connoisseurship** <span id="3.1"></span> 
 -   **Reading: Wikipedia’s “Connoisseur” and “Giovanni Morelli”**
     Links: Wikipedia’s
-    “[Connoisseur”](http://www.saylor.org/site/wp-content/uploads/2011/03/Wikipedias-Connoisseur-.pdf)
+    “[Connoisseur”](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Wikipedias-Connoisseur-.pdf)
     (PDF) and “[Giovanni
-    Morelli](http://www.saylor.org/site/wp-content/uploads/2011/03/Wikipedias-Giovanni-Morelli.pdf)”
+    Morelli](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Wikipedias-Giovanni-Morelli.pdf)”
     (PDF)  
         
      Instructions: Please read these texts as an introduction to the
