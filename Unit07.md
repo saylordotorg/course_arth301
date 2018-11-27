@@ -79,7 +79,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia’s “Art History: Barthes and Semiotics”**
     Link: Wikipedia’s “[Art History: Barthes and
-    Semiotics](http://www.saylor.org/site/wp-content/uploads/2011/03/Wikipedias-Art-History-Barthes-and-Semiotics.pdf)”
+    Semiotics](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Wikipedias-Art-History-Barthes-and-Semiotics.pdf)”
     (PDF)  
         
      Instructions: Please scroll down and read this short overview of
