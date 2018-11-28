@@ -40,9 +40,9 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia’s “Iconography” and “Erwin Panofsky”**
     Links: Wikipedia’s
-    “[Iconography](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Wikipedias-Iconography.pdf)”
+    “[Iconography](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/Wikipedias-Iconography.pdf)”
     (PDF) and “[Erwin
-    Panofsky](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Wikipedias-Erwin-Panofsky.pdf)”
+    Panofsky](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/Wikipedias-Erwin-Panofsky.pdf)”
     (PDF)  
         
      Instructions: Please read these pages as an introduction to the
@@ -94,7 +94,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Marjorie Munsterberg’s “Writing about Art: Iconographic
     Analysis”**
     Link: Marjorie Munsterberg's "[Writing about Art: Iconographic
-    Analysis](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Iconographic-Analysis.pdf)"
+    Analysis](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Iconographic-Analysis.pdf)"
     (PDF)  
       
      Also available in:
@@ -130,7 +130,7 @@ Upon successful completion of this unit, the student will be able to:
     correct grammar and spelling.  After you are finished, please visit
     Marjorie Munsterberg’s Writing About Art: “[APPENDIX III:  Sample
     Student Papers (Visual
-    Descriptions)](https://resources.saylor.org/archived/wp-content/uploads/2011/08/ARTH301-_Appendix-III_-resource.pdf)”
+    Descriptions)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/ARTH301-_Appendix-III_-resource.pdf)”
     (PDF) to look at examples of student’s visual descriptions of these
     artworks.   Note that these students wrote several drafts and the
     teacher’s comments on these drafts are also included on this page.  

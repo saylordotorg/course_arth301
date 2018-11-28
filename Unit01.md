@@ -80,9 +80,9 @@ id="1.2"></span> 
 
 -   **Reading: Wikipedia’s “Art History” and “Art Criticism”**
     Link: Wikipedia’s articles on “[Art
-    History](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Wikipedias-Art-History.pdf)”
+    History](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/Wikipedias-Art-History.pdf)”
     (PDF) and “[Art
-    Criticism](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Wikipedias-Art-Criticism.pdf)”
+    Criticism](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/Wikipedias-Art-Criticism.pdf)”
     (PDF)  
         
      Instructions: Please read these pages as an introduction to history

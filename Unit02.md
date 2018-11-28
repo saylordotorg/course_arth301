@@ -46,11 +46,11 @@ Upon successful completion of this unit, the student will be able to:
     Description,” “Writing about Art: Ekphrasis,” and “Writing about
     Art: Formal Analysis”**
     Links: Marjorie Munsterberg’s “[Writing about Art: Visual
-    Description](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Visual-Description.pdf),”
+    Description](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Visual-Description.pdf),”
     (PDF) “[Writing about Art:
-    Ekphrasis](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Ekphrasis.pdf),”
+    Ekphrasis](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Ekphrasis.pdf),”
     (PDF) and “[Writing about Art: Formal
-    Analysis](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Formal-Analysis.pdf)”
+    Analysis](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Formal-Analysis.pdf)”
     (PDF)  
       
      Also Available in
@@ -87,7 +87,7 @@ Upon successful completion of this unit, the student will be able to:
     spelling.  After you are finished, please visit Marjorie
     Munsterberg’s Writing About Art: “[APPENDIX III:  Sample Student
     Papers (Visual
-    Descriptions)](https://resources.saylor.org/archived/wp-content/uploads/2011/08/ARTH301-_Appendix-III_-resource.pdf)”
+    Descriptions)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/ARTH301-_Appendix-III_-resource.pdf)”
     (PDF) to look at examples of student’s visual descriptions of these
     artworks.   Note that these students wrote several drafts and the
     teacher’s comments on these drafts are also included on this page.  
@@ -105,13 +105,13 @@ Upon successful completion of this unit, the student will be able to:
     Analysis,” “Writing about Art: Personal Style,” “Writing about Art:
     Period Style,” and “Writing about Art: Realistic”**
     Links: Marjorie Munsterberg’s “[Writing about Art: Stylistic
-    Analysis](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Stylistic-Analysis.pdf),”
+    Analysis](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Stylistic-Analysis.pdf),”
     (PDF) “[Writing about Art: Personal
-    Style](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Personal-Style.pdf),"
+    Style](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Personal-Style.pdf),"
     (PDF) “[Writing about Art: Period
-    Style](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Period-Style.pdf),”
+    Style](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Period-Style.pdf),”
     (PDF) and “[Writing about Art:
-    Realistic](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Realistic.pdf)”
+    Realistic](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Realistic.pdf)”
     (PDF)  
       
      Also available in
@@ -160,7 +160,7 @@ Upon successful completion of this unit, the student will be able to:
     essay to check for any grammar and spelling errors.  After you are
     finished, please visit Marjorie Munsterberg’s Writing About Art:
     “[APPENDIX III:  Sample Student Papers (Visual
-    Descriptions)](https://resources.saylor.org/archived/wp-content/uploads/2011/08/ARTH301-_Appendix-III_-resource.pdf)”
+    Descriptions)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/ARTH301-_Appendix-III_-resource.pdf)”
     (PDF) to look at examples of student’s visual descriptions of these
     artworks.   Note that these students wrote several drafts and the
     teacher’s comments on these drafts are also included on this page.  
@@ -257,7 +257,7 @@ id="2.3"></span> 
 -   **Reading: Marjorie Munsterberg’s “Writing about Art: The
     Biography”**
     Link: Marjorie Munsterberg’s “[Writing about Art: The
-    Biography](https://resources.saylor.org/archived/wp-content/uploads/2011/04/The-Biography.pdf)”
+    Biography](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/The-Biography.pdf)”
     (PDF)  
       
      Also available in
