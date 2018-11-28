@@ -37,7 +37,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Marjorie Munsterberg’s “Writing about Art: Historical
     Analysis”**
     Link: Marjorie Munsterberg's "[Writing about Art: Historical
-    Analysis](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Historical-Analysis.pdf)"
+    Analysis](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Historical-Analysis.pdf)"
     (PDF)  
       
      Also available in:
@@ -121,7 +121,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: The Art Story.org’s “Meyer Schapiro”**
     Link: The Art Story.org’s “[Meyer
-    Schapiro](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH301-6.2.1-Art-Critic-Meyer.pdf)”
+    Schapiro](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ARTH301-6.2.1-Art-Critic-Meyer.pdf)”
     (PDF)  
         
      Instructions: Please read this biography of Meyer Schapiro
